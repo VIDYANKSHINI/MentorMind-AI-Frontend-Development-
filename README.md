@@ -1,7 +1,7 @@
 
   # MentorMind AI Frontend Development
 
-  This is a code bundle for MentorMind AI Frontend Development. The original project is available at https://www.figma.com/design/DePf1INNmqp6vdIxctwkrI/MentorMind-AI-Frontend-Development.
+  This is a code bundle for MentorMind AI Frontend Development.MentorMind-AI  provide an interactive and user-friendly interface for the MentorMind platform. The project is optimized for modern deployment workflows and is fully compatible with Netlify
 
   ## Running the code
 
